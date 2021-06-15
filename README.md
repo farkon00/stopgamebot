@@ -3,6 +3,8 @@ Telegram bot, which make post in channel, when a new review appears on the site 
 
 Bot created by aiogram and Beatiful Soup 4.
 
+Also I have version with PyTelegramBotAPI, instruction the same.
+
 To use it on your channel:
 1. Download main.py file.
 2. Create bot in @BotFather
